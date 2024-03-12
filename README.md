@@ -81,7 +81,7 @@ https://lookerstudio.google.com/reporting/cb84048e-540f-4af7-9e5f-d6396b31ff2c
 
 ### **Rekomendasi *Action Items***
 
-Berikan beberapa rekomendasi *action items* yang harus dilakukan perusahaan guna menyelesaikan permasalahan atau mencapai target mereka.
+Beberapa rekomendasi *action items* yang harus dilakukan perusahaan guna menyelesaikan permasalahan atau mencapai target mereka.
 
 - Memperhatikan faktor-faktor yang berkontribusi pada tingkat kepuasan kerja 'menengah'. Lakukan survei atau wawancara untuk mengumpulkan umpan balik dari karyawan dan mengidentifikasi kendala yang perlu diperbaiki.
 - Mengingat kelompok usia 31-40 tahun mengalami tingkat perpindahan tertinggi, telusuri alasan di balik tren ini dan implementasikan strategi untuk mempertahankan dan melibatkan karyawan dalam kelompok usia ini, seperti memberikan peluang kemajuan karier.
