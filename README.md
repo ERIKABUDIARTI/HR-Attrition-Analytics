@@ -42,16 +42,16 @@ Untuk mengatasi permasalahan *attrition* karyawan dalam bisnis *edutech*, akan d
 - Melakukan proses transformasi data seperti *encoding* kategori, normalisasi, dan pemilihan fitur yang relevan untuk analisis.
 - Menjelajahi korelasi antar variabel untuk memahami hubungan di antara variabel-variabel tersebut.
 
-### *Machine Learning Modeling : Logistic Regression*
+### *Machine Learning Modeling*
 - Memisahkan data menjadi *training set* dan *testing set*.
-- Melatih model *Logistic Regression* menggunakan *training set*, dengan variabel target *attrition* dan variabel fitur yang relevan.
+- Melatih beberapa model menggunakan *training set*, dengan variabel target *attrition* dan variabel fitur yang relevan.
 - Menyesuaikan *hyperparameter* model dan melakukan validasi model.
 
 ### *Evaluation*
-- Menggunakan *testing set* untuk mengevaluasi kinerja model *Logistic Regression*, dengan metrik yang sesuai seperti *accuracy*, *precision*, *recall* dan *F1-score*.
+- Menggunakan *testing set* untuk mengevaluasi kinerja model dengan metrik yang sesuai seperti *accuracy*, *precision*, *recall* dan *F1-score*.
 
 ### *Deployment*
-- Menjalankan model yang telah dibuat ke dalam lingkup produksi sehingga *user* dapat berinteraksi dengan model.
+- Menjalankan model *Logistic Regression* yang telah dibuat ke dalam lingkup produksi sehingga *user* dapat berinteraksi dengan model.
 
 ## **Persiapan**
 
