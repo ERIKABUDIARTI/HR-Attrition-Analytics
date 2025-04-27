@@ -1,6 +1,5 @@
 import joblib
 
-
 model = joblib.load("logistic_regression_model.joblib")
 result_target = joblib.load("logistic_regression_model.joblib")
 
