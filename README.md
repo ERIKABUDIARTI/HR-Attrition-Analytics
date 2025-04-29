@@ -88,7 +88,7 @@ Cara menjalankan prediksi:
      - *Install* dependensi yang ada pada `requirements.txt`
   
   2. Format Input Data
-     - Script `prediction.py` membutuhkan *input* data dalam format CSV dengan struktur kolom yang sesuai dengan data pelatihan model `employee_data.csv`
+     - Script `prediction.py` membutuhkan *input* data dalam format CSV dengan struktur kolom yang sesuai dengan data pelatihan `employee_data.csv`
   
   3. Menjalankan Prediksi
      
@@ -98,7 +98,7 @@ Cara menjalankan prediksi:
       python prediction.py --input data.csv --output prediksi.csv
       ```
 
-  4. Hasil Prediksi
+  4. Mendapatkan Hasil Prediksi
      - Hasil prediksi akan disimpan dalam berkas prediksi.csv dengan tambahan kolom `prediction` berisi *output* dari model.
 
   
@@ -110,6 +110,7 @@ https://lookerstudio.google.com/reporting/cb84048e-540f-4af7-9e5f-d6396b31ff2c
 ```
 
 ![erika_budiarti-dashboard](https://raw.githubusercontent.com/ERIKABUDIARTI/HR-Analytics/main/erika_budiarti-dashboard.png)
+
 
 ## ***Conclusion***
 
