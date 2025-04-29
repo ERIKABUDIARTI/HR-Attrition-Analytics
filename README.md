@@ -55,7 +55,7 @@ Untuk mengatasi permasalahan *attrition* karyawan dalam bisnis *edutech*, akan d
 
 ## **Persiapan**
 
-*Sumber data*: 
+Sumber data pelatihan: 
 ```
 https://www.ibm.com/communities/analytics/watson-analytics-blog/watson-analytics-use-case-for-hr-retaining-valuable-employees/
 ```
@@ -81,11 +81,11 @@ Proyek *HR Analytic* ini menggunakan model **Logistic Regression** untuk mempred
   - `prediction.py` : *Script* Python untuk menjalankan proses prediksi.
 
 
-  Cara menjalankan prediksi:
+Cara menjalankan prediksi:
   1. Persiapan *Environment*
 
      - Pastikan Anda sudah berada di *environment* Python yang sesuai. Anda bisa menggunakan `pipenv` atau `conda`
-     - Install dependensi yang ada pada `requirements.txt`
+     - *Install* dependensi yang ada pada `requirements.txt`
   
   2. Format Input Data
      - Script `prediction.py` membutuhkan *input* data dalam format CSV dengan struktur kolom yang sesuai dengan data pelatihan model `employee_data.csv`
