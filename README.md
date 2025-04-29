@@ -91,15 +91,16 @@ Proyek HR Analytic ini menggunakan model **Logistic Regression** untuk mempredik
      - Script `prediction.py` membutuhkan input data dalam format CSV dengan struktur kolom yang sesuai dengan data pelatihan model `employee_data.csv`
   
   3. Menjalankan Prediksi
-    Gunakan perintah berikut di terminal untuk menjalankan prediksi:
+     - Gunakan perintah berikut di terminal untuk menjalankan prediksi:
+       
     ```
     python prediction.py --input data.csv --output prediksi.csv
     ```
     - input : Nama file CSV yang berisi data untuk diprediksi
     - output : Nama file output untuk menyimpan hasil prediksi.
   
-  6. Hasil Prediksi
-    Hasil prediksi akan disimpan dalam file prediksi.csv dengan tambahan kolom prediction berisi output dari model.
+  4. Hasil Prediksi
+    - Hasil prediksi akan disimpan dalam file prediksi.csv dengan tambahan kolom prediction berisi output dari model.
 
 
 ## ***Business Dashboard***
