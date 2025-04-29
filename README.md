@@ -76,19 +76,19 @@ pipenv shell
 pip install -r requirements.txt
 ```
 
-Proyek HR Analytic ini menggunakan model **Logistic Regression** untuk memprediksi *Attrition Rate* berdasarkan data HR. Berkas yang digunakan adalah sebagai berikut: 
-  - `logistic_regression_model.joblib` : Model Logistic Regression yang sudah dilatih.
-  - `prediction.py` : Script Python untuk menjalankan proses prediksi.
+Proyek *HR Analytic* ini menggunakan model **Logistic Regression** untuk memprediksi *Attrition Rate* berdasarkan data HR. Berkas yang digunakan adalah sebagai berikut: 
+  - `logistic_regression_model.joblib` : Model *Logistic Regression* yang sudah dilatih.
+  - `prediction.py` : *Script* Python untuk menjalankan proses prediksi.
 
 
   Cara menjalankan prediksi:
-  1. Persiapan Environment
+  1. Persiapan *Environment*
 
-     - Pastikan Anda sudah berada di environment Python yang sesuai. Anda bisa menggunakan `pipenv` atau `conda`
+     - Pastikan Anda sudah berada di *environment* Python yang sesuai. Anda bisa menggunakan `pipenv` atau `conda`
      - Install dependensi yang ada pada `requirements.txt`
   
   2. Format Input Data
-     - Script `prediction.py` membutuhkan input data dalam format CSV dengan struktur kolom yang sesuai dengan data pelatihan model `employee_data.csv`
+     - Script `prediction.py` membutuhkan *input* data dalam format CSV dengan struktur kolom yang sesuai dengan data pelatihan model `employee_data.csv`
   
   3. Menjalankan Prediksi
      
@@ -99,7 +99,7 @@ Proyek HR Analytic ini menggunakan model **Logistic Regression** untuk mempredik
       ```
 
   4. Hasil Prediksi
-     - Hasil prediksi akan disimpan dalam file prediksi.csv dengan tambahan kolom `prediction` berisi output dari model.
+     - Hasil prediksi akan disimpan dalam berkas prediksi.csv dengan tambahan kolom `prediction` berisi *output* dari model.
 
   
 ## ***Business Dashboard***
