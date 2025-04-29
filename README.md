@@ -99,8 +99,7 @@ Proyek HR Analytic ini menggunakan model **Logistic Regression** untuk mempredik
       ```
   
   4. Hasil Prediksi
-     
-    - Hasil prediksi akan disimpan dalam file prediksi.csv dengan tambahan kolom prediction berisi output dari model.
+    - Hasil prediksi akan disimpan dalam file prediksi.csv dengan tambahan kolom `prediction` berisi output dari model.
 
 
 ## ***Business Dashboard***
