@@ -99,7 +99,7 @@ Cara menjalankan prediksi:
       ```
 
   4. Mendapatkan Hasil Prediksi
-     - Hasil prediksi akan disimpan dalam berkas prediksi.csv dengan tambahan kolom `prediction` berisi *output* dari model.
+     - Hasil prediksi akan disimpan dalam berkas `prediksi.csv` dengan tambahan kolom `prediction` yang berisi *output* dari model.
 
   
 ## ***Business Dashboard***
