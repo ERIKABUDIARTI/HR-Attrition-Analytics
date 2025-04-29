@@ -97,11 +97,11 @@ Proyek HR Analytic ini menggunakan model **Logistic Regression** untuk mempredik
       ```
       python prediction.py --input data.csv --output prediksi.csv
       ```
-  
+
   4. Hasil Prediksi
-    - Hasil prediksi akan disimpan dalam file prediksi.csv dengan tambahan kolom `prediction` berisi output dari model.
+     - Hasil prediksi akan disimpan dalam file prediksi.csv dengan tambahan kolom `prediction` berisi output dari model.
 
-
+  
 ## ***Business Dashboard***
 
 *Dashboard* dibuat dengan menggunakan *Google Looker Studio* untuk menampilkan distribusi data dan pengaruh variabel-variabel data terhadap *Attrition Rate*. *Dashboard* dapat diakses pada *link* berikut ini:
