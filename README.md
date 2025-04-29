@@ -55,8 +55,10 @@ Untuk mengatasi permasalahan *attrition* karyawan dalam bisnis *edutech*, akan d
 
 ## **Persiapan**
 
-Sumber data: 
+*Sumber data*: 
+```
 https://www.ibm.com/communities/analytics/watson-analytics-blog/watson-analytics-use-case-for-hr-retaining-valuable-employees/
+```
 
 *Setup environment - Anaconda*:
 ```
