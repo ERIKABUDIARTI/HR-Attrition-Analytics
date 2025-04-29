@@ -74,7 +74,7 @@ pipenv shell
 pip install -r requirements.txt
 ```
 
-Proyek HR Analytic ini menggunakan model **Logistic Regression** untuk memprediksi *Atrition Rate* berdasarkan data HR.
+Proyek HR Analytic ini menggunakan model **Logistic Regression** untuk memprediksi *Attrition Rate* berdasarkan data HR.
 Berkas: 
 - `logistic_regression_model.joblib` : Model Logistic Regression yang sudah dilatih.
 - `prediction.py` : Script Python untuk menjalankan proses prediksi.
